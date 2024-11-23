@@ -1,0 +1,4 @@
+// Simple JavaScript to add interactivity (example)
+document.querySelector(".cta-button").addEventListener("click", function() {
+    alert("Booking now! We will get back to you soon.");
+});
